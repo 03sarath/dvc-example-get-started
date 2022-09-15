@@ -2,4 +2,4 @@
     remote = storage
     autostage = true
 ['remote "storage"']
-    url = https://remote.dvc.org/get-started
+    url = s3://dvc-getting-started/nlp
